@@ -23,6 +23,7 @@
 -  Create pull requests
 [Try to Mention the related issue for your PR] 
 <br/>
+
 # How to Sync the Repo!
 
 ## Steps: 
